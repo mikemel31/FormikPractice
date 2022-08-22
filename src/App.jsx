@@ -1,11 +1,11 @@
 import React from 'react';
 import './app.scss';
-import Form from './Form';
+import SendForm from './Form';
 
 function App() {
   return (
     <div className="app">
-        <Form/>
+        <SendForm/>
     </div>
   );
 }
